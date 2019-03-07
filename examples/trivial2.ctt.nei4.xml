@@ -1,0 +1,45 @@
+<globalLB discovered='3' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='3' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='6' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='6' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='0' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='0' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='0' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='0' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='8' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='8' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='11' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='11' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='4' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='4' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='13' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='13' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='5' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='5' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='2' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='2' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='20' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='20' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='18' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='18' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='3' penaltyPeriods='0' />
+<neighbourhood data='C:\diving\examples\trivial2.ctt' discovered='3' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='0' penaltyPeriods='0' />
+<neighbourhood data='C:/diving/examples/trivial2.ctt' discovered='0' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>
+<globalLB discovered='0' penaltyPeriods='0' />
+<neighbourhood data='C:/diving/examples/trivial2.ctt' discovered='0' cost='4' penaltyCompactness='2' penaltyMinCourseDays='0'><definition>
+<session course='0' period='9'/> <session course='0' period='14'/> <session course='0' period='15'/> <session course='0' period='21'/> <session course='0' period='22'/> <session course='0' period='28'/> </definition></neighbourhood>

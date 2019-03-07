@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log data='C:/diving/examples/comp01.ctt'  config='Tuned-0-15-Bar-Feas-Fract-Sym'  timeLimit='30' >
+<cplex>Loader: Instance Fis0506-1 (C:/diving/examples/comp01.ctt)
+Loader: 30 courses, 160 events, and 14 curricula
+Graphs: Generated a conflict graph with 30 vertices and 53 edges
+Graphs: Pre-generated 0 cliques
+
+Solver: Running ...
+Tried aggregator 1 time.
+MIP Presolve eliminated 343 rows and 136 columns.
+MIP Presolve modified 10 coefficients.
+Reduced MIP has 2010 rows, 1365 columns, and 9815 nonzeros.
+Presolve time =    0.03 sec.
+Clique table members: 1312.
+MIP emphasis: balance optimality and feasibility.
+Tried aggregator 1 time.
+LP Presolve eliminated 10 rows and 0 columns.
+Reduced LP has 2000 rows, 1365 columns, and 9745 nonzeros.
+Presolve time =    0.01 sec.
+Number of nonzeros in lower triangle of A*A' = 26528
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec.
+Summary statistics for Cholesky factor:
+  Rows in Factor            = 2000
+  Integer space required    = 12018
+  Total non-zeros in factor = 99528
+  Total FP ops to factor    = 8399418
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf          
+   0  2.1618605e+003 -1.4130000e+003 1.60e+004 5.70e+003 1.96e+003
+   1  8.1491509e+002 -1.3507567e+003 4.41e+003 1.57e+003 3.81e+002
+   2  1.2611665e+002 -6.8261162e+002 4.49e+002 1.60e+002 1.22e+002
+   3  2.1593851e+001 -6.5528239e+001 8.89e+001 3.17e+001 8.66e+000
+   4  2.6190318e-001 -7.8357298e-001 1.25e+000 4.46e-001 6.67e-002
+   5  4.3354128e-005 -2.1883134e-004 1.16e-004 4.16e-005 1.03e-007
+   6  7.1724934e-009 -5.1306075e-008 6.93e-009 2.47e-009 1.04e-013
+   7  1.4115788e-012 -1.1421845e-011 5.78e-013 1.29e-013 9.74e-014
+Barrier time =    0.16 sec.
+
+Primal crossover.
+  Primal:  Fixing 936 variables.
+      935 PMoves:  Infeasibility 0.00000000e+000  Objective 0.00000000e+000
+      795 PMoves:  Infeasibility 1.19348975e-015  Objective 0.00000000e+000
+      544 PMoves:  Infeasibility 1.05471187e-015  Objective 0.00000000e+000
+      401 PMoves:  Infeasibility 6.66133815e-016  Objective 0.00000000e+000
+      238 PMoves:  Infeasibility 2.16493490e-015  Objective 0.00000000e+000
+       91 PMoves:  Infeasibility 3.33066907e-016  Objective 0.00000000e+000
+        0 PMoves:  Infeasibility 4.47889338e-014  Objective 0.00000000e+000
+  Primal:  Pushed 352, exchanged 584.
+  Dual:  Fixing 6 variables.
+        5 DMoves:  Infeasibility 0.00000000e+000  Objective 0.00000000e+000
+        0 DMoves:  Infeasibility 0.00000000e+000  Objective 0.00000000e+000
+  Dual:  Pushed 6, exchanged 0.
+Using devex.
+Total crossover time =    0.03 sec.
+
+Iteration log . . .
+Iteration:     1    Objective     =             0.000000
+Root relaxation solution time =    0.20 sec.
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer     Best Node    ItCnt     Gap         Variable B Parent  Depth
+
+      0     0        0.0000   271                      0.0000        7         
+                     0.0000   202                  Fract:  97       77         
+                     0.0000   182                  Fract:  75      145         
+</cplex>
+<globalLB discovered='1' penaltyPeriods='0' />
+<neighbourhood data='C:/diving/examples/comp01.ctt' discovered='1' cost='107' penaltyCompactness='31' penaltyMinCourseDays='9'><definition>
+<session course='0' period='2'/>
+<session course='0' period='3'/>
+<session course='0' period='10'/>
+<session course='0' period='15'/>
+<session course='0' period='20'/>
+<session course='0' period='21'/>
+<session course='1' period='1'/>
+<session course='1' period='5'/>
+<session course='1' period='11'/>
+<session course='1' period='18'/>
+<session course='1' period='19'/>
+<session course='1' period='25'/>
+<session course='2' period='8'/>
+<session course='2' period='9'/>
+<session course='2' period='14'/>
+<session course='2' period='16'/>
+<session course='2' period='22'/>
+<session course='2' period='26'/>
+<session course='2' period='27'/>
+<session course='3' period='13'/>
+<session course='3' period='28'/>
+<session course='3' period='29'/>
+<session course='4' period='22'/>
+<session course='5' period='1'/>
+<session course='5' period='7'/>
+<session course='5' period='12'/>
+<session course='5' period='15'/>
+<session course='5' period='18'/>
+<session course='5' period='21'/>
+<session course='5' period='24'/>
+<session course='5' period='25'/>
+<session course='6' period='3'/>
+<session course='6' period='10'/>
+<session course='6' period='14'/>
+<session course='6' period='16'/>
+<session course='6' period='20'/>
+<session course='6' period='26'/>
+<session course='6' period='28'/>
+<session course='7' period='2'/>
+<session course='7' period='13'/>
+<session course='8' period='7'/>
+<session course='8' period='8'/>
+<session course='8' period='24'/>
+<session course='8' period='25'/>
+<session course='9' period='1'/>
+<session course='9' period='4'/>
+<session course='9' period='5'/>
+<session course='9' period='6'/>
+<session course='9' period='11'/>
+<session course='9' period='13'/>
+<session course='9' period='27'/>
+<session course='9' period='29'/>
+<session course='10' period='0'/>
+<session course='10' period='12'/>
+<session course='10' period='17'/>
+<session course='10' period='18'/>
+<session course='10' period='23'/>
+<session course='11' period='9'/>
+<session course='11' period='16'/>
+<session course='11' period='17'/>
+<session course='11' period='20'/>
+<session course='11' period='28'/>
+<session course='12' period='5'/>
+<session course='12' period='9'/>
+<session course='12' period='13'/>
+<session course='12' period='20'/>
+<session course='12' period='27'/>
+<session course='13' period='21'/>
+<session course='14' period='2'/>
+<session course='14' period='3'/>
+<session course='14' period='4'/>
+<session course='14' period='8'/>
+<session course='14' period='10'/>
+<session course='14' period='15'/>
+<session course='15' period='11'/>
+<session course='15' period='13'/>
+<session course='15' period='17'/>
+<session course='15' period='19'/>
+<session course='15' period='24'/>
+<session course='16' period='5'/>
+<session course='16' period='6'/>
+<session course='16' period='23'/>
+<session course='16' period='24'/>
+<session course='16' period='29'/>
+<session course='17' period='4'/>
+<session course='17' period='14'/>
+<session course='17' period='15'/>
+<session course='17' period='16'/>
+<session course='17' period='27'/>
+<session course='17' period='28'/>
+<session course='18' period='2'/>
+<session course='18' period='4'/>
+<session course='18' period='19'/>
+<session course='18' period='20'/>
+<session course='18' period='22'/>
+<session course='18' period='26'/>
+<session course='19' period='3'/>
+<session course='19' period='8'/>
+<session course='19' period='9'/>
+<session course='19' period='14'/>
+<session course='19' period='28'/>
+<session course='20' period='3'/>
+<session course='20' period='8'/>
+<session course='20' period='9'/>
+<session course='20' period='11'/>
+<session course='20' period='14'/>
+<session course='20' period='28'/>
+<session course='21' period='1'/>
+<session course='21' period='7'/>
+<session course='21' period='12'/>
+<session course='21' period='18'/>
+<session course='21' period='19'/>
+<session course='21' period='24'/>
+<session course='22' period='7'/>
+<session course='22' period='11'/>
+<session course='22' period='17'/>
+<session course='22' period='19'/>
+<session course='22' period='21'/>
+<session course='22' period='26'/>
+<session course='23' period='2'/>
+<session course='23' period='4'/>
+<session course='23' period='16'/>
+<session course='23' period='20'/>
+<session course='23' period='21'/>
+<session course='23' period='26'/>
+<session course='24' period='5'/>
+<session course='24' period='12'/>
+<session course='24' period='14'/>
+<session course='24' period='27'/>
+<session course='24' period='29'/>
+<session course='25' period='2'/>
+<session course='25' period='4'/>
+<session course='25' period='10'/>
+<session course='25' period='15'/>
+<session course='25' period='22'/>
+<session course='25' period='26'/>
+<session course='26' period='16'/>
+<session course='26' period='17'/>
+<session course='26' period='19'/>
+<session course='26' period='21'/>
+<session course='26' period='23'/>
+<session course='26' period='24'/>
+<session course='27' period='5'/>
+<session course='27' period='7'/>
+<session course='27' period='11'/>
+<session course='27' period='13'/>
+<session course='27' period='18'/>
+<session course='27' period='25'/>
+<session course='28' period='10'/>
+<session course='28' period='15'/>
+<session course='28' period='17'/>
+<session course='28' period='22'/>
+<session course='28' period='23'/>
+<session course='28' period='27'/>
+<session course='29' period='3'/>
+<session course='29' period='8'/>
+<session course='29' period='9'/>
+<session course='29' period='10'/>
+<session course='29' period='22'/>
+<session course='29' period='23'/>
+</definition>
+<cplex></cplex><timestamp end='1'/></neighbourhood>
+<cplex>*     0+    0                   0      107.0000        0.0000      145  100.00%

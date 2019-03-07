@@ -1,0 +1,7 @@
+./udine ./data-cuts/comp04.ctt > ./data-cuts/comp04.log.xml	
+./udine ./data-cuts/comp06.ctt > ./data-cuts/comp06.log.xml
+./udine ./data-cuts/comp07.ctt > ./data-cuts/comp07.log.xml
+./udine ./data-cuts/comp01.ctt > ./data-cuts/comp01.log.xml
+./udine ./data-cuts/comp05.ctt > ./data-cuts/comp05.log.xml
+./udine ./data-cuts/comp02.ctt > ./data-cuts/comp02.log.xml
+./udine ./data-cuts/comp03.ctt > ./data-cuts/comp03.log.xml

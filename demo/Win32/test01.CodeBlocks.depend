@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1211229095 c:\diving\src\conflicts.cpp
+	<cassert>
+	<vector>
+	<set>
+	<algorithm>
+	"conflicts.h"
+
+1211229074 c:\diving\src\conflicts.h
+	<vector>
+	<utility>
+	"loader.h"
+
+1211225104 c:\diving\src\loader.h
+	<cassert>
+	<vector>
+	<string>
+	<iostream>
+	<utility>
+

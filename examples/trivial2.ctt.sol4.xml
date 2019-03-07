@@ -1,0 +1,9 @@
+<solution submodelCost='4' cost='4' data='C:/diving/examples/trivial2.ctt' type='FixPeriod' discovered='0' neighbourhoodLB='4' penaltyRoomCapacity='0' penaltyMinCourseDays='0' penaltyCompactness='2' penaltyRoomStability='0' >
+<session course='c0001' room='B' period='9' day='1' periodWithin='3'/>
+<session course='c0001' room='B' period='14' day='2' periodWithin='2'/>
+<session course='c0001' room='B' period='15' day='2' periodWithin='3'/>
+<session course='c0001' room='B' period='21' day='3' periodWithin='3'/>
+<session course='c0001' room='B' period='22' day='3' periodWithin='4'/>
+<session course='c0001' room='B' period='28' day='4' periodWithin='4'/>
+</solution>
+

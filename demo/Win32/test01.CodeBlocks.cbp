@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_project_file>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="1"/>
+	<Project>
+		<Option title="udinetest01Win32"/>
+		<Option makefile="Makefile"/>
+		<Option makefile_is_custom="0"/>
+		<Option compiler="0"/>
+		<Build>
+			<Target title="Release">
+				<Option output=".\test01.exe"/>
+				<Option working_dir="."/>
+				<Option object_output="tmp"/>
+				<Option deps_output=".deps"/>
+				<Option type="1"/>
+				<Option compiler="0"/>
+				<Option projectResourceIncludeDirsRelation="1"/>
+				<Compiler>
+					<Add option="-DWIN32"/>
+					<Add option="-D_CRT_SECURE_NO_DEPRECATE"/>
+					<Add option="-D_CONSOLE"/>
+					<Add option="-DIL_STD"/>
+					<Add option="-W"/>
+					<Add option="-O0"/>
+					<Add directory="C:\diving\src\"/>
+					<Add directory="C:\diving\deps\boost"/>
+					<Add directory="C:\diving\deps\"/>
+					<Add directory="C:\programs\ilog\concert22\include"/>
+					<Add directory="C:\programs\ilog\cplex100\include"/>
+				</Compiler>
+				<Linker>
+					<Add library="C:\programs\ilog\cplex100\lib\x86_.net2005_8.0\stat_mta\ilocplex"/>
+					<Add library="C:\programs\ilog\concert22\lib\x86_.net2005_8.0\stat_mta\concert"/>
+					<Add library="C:\programs\ilog\cplex100\lib\x86_.net2005_8.0\stat_mta\cplex100"/>
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="..\..\src\conflicts.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\conflicts.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\cuts.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\cuts.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\loader.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\loader.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\model.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\model.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\saver_bound.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\saver_bound.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\saver_solution.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\solver.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\solver.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\solver_config.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\solver_config.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\strategy.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\..\src\strategy.h">
+			<Option compilerVar=""/>
+			<Option compile="0"/>
+			<Option link="0"/>
+			<Option target="Release"/>
+		</Unit>
+		<Unit filename="..\test01.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="Release"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
